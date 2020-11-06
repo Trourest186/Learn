@@ -1,2 +1,2 @@
 # Learn
-Hello! Giang 
+Hello
